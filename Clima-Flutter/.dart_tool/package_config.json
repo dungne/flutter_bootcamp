@@ -68,6 +68,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flutter_spinkit",
+      "rootUri": "file:///C:/Users/nguye/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/flutter_spinkit-4.1.2+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///E:/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -84,6 +90,18 @@
       "rootUri": "file:///C:/Users/nguye/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/google_api_availability-2.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.0"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/nguye/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http-0.12.0+4",
+      "packageUri": "lib/",
+      "languageVersion": "2.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/nguye/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http_parser-3.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
     },
     {
       "name": "image",
@@ -200,7 +218,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-03-24T16:04:56.965415Z",
+  "generated": "2020-03-28T03:08:38.373022Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
